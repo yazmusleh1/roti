@@ -1,0 +1,86 @@
+{
+  "items": [
+      {
+        "name":"THE CLASSIC PITA",
+        "cal": "840 CAL",
+        "price":"8.50",
+        "description": "Fresh baked Pita Bread filled with char-grilled Chicken Roti. Tomato & Cucumber, Red Cabbage Slaw, house-made Classic Hummus, with Garlic and spicy Gren S'hug sauces"
+      },
+      {
+        "name":"SIGNATURE RICE PLATE",
+        "cal": "670 CAL",
+        "price":"9.50",
+        "description": "Roti Rice topped with grilled Chicken Kabob, Tomato & Cucumber, roasted Fresh Veggies, house-made Classic Hummus, with Roasted Red Pepper sauce"
+      },
+      {
+        "name":"MEDITERRANEAN CHOPPED SALAD",
+        "cal": "250 CAL",
+        "price":"9.25",
+        "description": "Mixed greens topped with char-grilled Chicken Roti. Tomato & Cucumber, Couscous, Pita Chip Crunchies, Olives, Feta, with Red Wine Vinaigrette"
+      }
+    ],
+    "bad":[
+      {
+        "name":"PITA OR WRAP",
+        "cal": "250 CAL/220 CAL",
+        "price":"8.50"
+      },
+      {
+        "name":"RICE PLATE",
+        "cal": "210 CAL",
+        "price":"9.25"
+      },
+      {
+        "name":"SALAD BOWL",
+        "cal": "15 CAL",
+        "price":"9.25"
+      }
+    ],
+    "protein":[
+      {
+        "name":"CHICKEN ROTI",
+        "cal": "210 CAL"
+      },
+      {
+        "name":"CHICKEN KABOB",
+        "cal": "180 CAL"
+      },
+      {
+        "name":"FALAFEL",
+        "cal": "220 CAL"
+      },
+      {
+        "name":"SPICY LAMB MEATBALLS",
+        "cal": "300 CAL",
+        "price": "+1.00"
+      },
+      {
+        "name":"STEAK ROTI",
+        "cal": "260 CAL",
+        "price": "+2.00"
+      },
+      {
+        "name":"SALMON KABOB",
+        "cal": "220 CAL",
+        "price": "+2.00"
+      }
+    ],
+    "extras":[
+      {
+        "name":"SPICY LAMB MEATBALLS",
+        "cal": "225 CAL",
+        "price":"3.75"
+      },
+      {
+        "name":"FALAFEL",
+        "cal": "170 CAL",
+        "price":"2.25"
+      },
+      {
+        "name":"CLASSIC HUMMUS & PITA BREAD",
+        "cal": "624 CAL",
+        "price":"3.50"
+      }
+    ]
+
+}
