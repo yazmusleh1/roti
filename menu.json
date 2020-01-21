@@ -1,5 +1,9 @@
 {
-  "items": [
+  "menu":{
+    "items": [
+      {
+        "id": 100
+      },
       {
         "name":"THE CLASSIC PITA",
         "cal": "840 CAL",
@@ -21,6 +25,9 @@
     ],
     "bad":[
       {
+        "id": 101
+      },
+      {
         "name":"PITA OR WRAP",
         "cal": "250 CAL/220 CAL",
         "price":"8.50"
@@ -37,6 +44,9 @@
       }
     ],
     "protein":[
+      {
+        "id": 102
+      },
       {
         "name":"CHICKEN ROTI",
         "cal": "210 CAL"
@@ -67,6 +77,9 @@
     ],
     "extras":[
       {
+        "id": 103
+      },
+      {
         "name":"SPICY LAMB MEATBALLS",
         "cal": "225 CAL",
         "price":"3.75"
@@ -82,5 +95,5 @@
         "price":"3.50"
       }
     ]
-
+  }
 }
