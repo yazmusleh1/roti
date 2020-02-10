@@ -21,6 +21,12 @@
       "cal": "250 CAL",
       "price":"9.25",
       "description": "Mixed greens topped with char-grilled Chicken Roti. Tomato & Cucumber, Couscous, Pita Chip Crunchies, Olives, Feta, with Red Wine Vinaigrette"
+    },
+    {
+      "name":"YAZ'S CHOPPED SALAD",
+      "cal": "750 CAL",
+      "price":"12.25",
+      "description": "Mixed greens topped with char-grilled Chicken Roti. Tomato & Cucumber, Couscous, Pita Chip Crunchies, Olives, Feta, with Red Wine Vinaigrette"
     }
   ],
   "bad": [
