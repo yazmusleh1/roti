@@ -47,6 +47,11 @@
         "name":"SALAD BOWL",
         "cal": "15 CAL",
         "price":"9.25"
+      },
+     {
+        "name":"BRETT'S BBQ SALAD",
+        "cal": "125 CAL",
+        "price":"11.25"
       }
     ],
     "protein":[
